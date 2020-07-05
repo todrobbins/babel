@@ -1,7 +1,6 @@
 # babel 🗣
 
-- [[inbox]] - a place to write down quick notes to be categorised later
-- [[foam-tips]] - tips to get the most out of your foam
+- [[inbox]] - quick notes
 - [[readings]] - stuff I'm reading or want to read
 - [[research-log]] - daily research log
 - [[todo]] - DIY list
