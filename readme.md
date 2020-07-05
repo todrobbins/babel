@@ -1,4 +1,4 @@
-# babel 🗣
+# 🗣
 
 - [[inbox]] - quick notes
 - [[readings]] - stuff I'm reading or want to read
