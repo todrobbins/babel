@@ -2,19 +2,36 @@
 
 # Utah Police
 
+## Law Enforcement Agencies
+
+### Salt Lake County
+
+[Salt Lake County Sheriff's Office](https://www.slsheriff.org/)
+
+- [Facebook](https://www.facebook.com/SLSheriff/)
+- [Twitter](https://twitter.com/SLCOMetroJail)
+
+[Unified Police Department of Greater Salt Lake](http://www.updsl.org/)
+
+- [Facebook](https://www.facebook.com/updsl)
+
 ## Unions
-[Utah State Fraternal Order of Police](https://web.archive.org/web/20190205101919/https://www.utahstatefop.com/)<br>
+[Utah State Fraternal Order of Police](https://web.archive.org/web/20190205101919/https://www.utahstatefop.com/)
+
 2195 W. 5400 S. #B201<br>
 Taylorsville, UT 84129
 
 - [Facebook](https://www.facebook.com/UtahFOPStateLodge/)
 - [Twitter](https://twitter.com/UtahStateFOP)
 
-## Salt Lake County
+### Salt Lake County
 
-- [Salt Lake County Office of the Sheriff Mutual Aid Association](https://www.facebook.com/groups/2074032199360553/)
+[Salt Lake County Office of the Sheriff Mutual Aid Association](http://slsmaa.org/)
+ 
+- [Facebook](https://www.facebook.com/groups/2074032199360553/)
+- [Twitter]()
 
-### Salt Lake City
+#### Salt Lake City
 
 - [Salt Lake City Police Mutual Aid Association](https://www.facebook.com/groups/181961930597/)
 
