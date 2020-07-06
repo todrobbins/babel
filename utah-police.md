@@ -14,6 +14,8 @@
 [Unified Police Department of Greater Salt Lake](http://www.updsl.org/)
 
 - [Facebook](https://www.facebook.com/updsl)
+- [Twitter](https://twitter.com/UPDSL)
+- [YouTube](https://www.youtube.com/channel/UC3xshb9SgE34gM3T0EJm7Sw)
 
 ## Unions
 [Utah State Fraternal Order of Police](https://web.archive.org/web/20190205101919/https://www.utahstatefop.com/)
