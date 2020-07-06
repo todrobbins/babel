@@ -2,6 +2,14 @@
 
 # Utah Police
 
+## Unions
+[Utah State Fraternal Order of Police](https://web.archive.org/web/20190205101919/https://www.utahstatefop.com/)<br>
+2195 W. 5400 S. #B201<br>
+Taylorsville, UT 84129
+
+- [Facebook](https://www.facebook.com/UtahFOPStateLodge/)
+- [Twitter](https://twitter.com/UtahStateFOP)
+
 ## Salt Lake County
 
 - [Salt Lake County Office of the Sheriff Mutual Aid Association](https://www.facebook.com/groups/2074032199360553/)
