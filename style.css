@@ -1,0 +1,9 @@
+html, body {
+    font-family: 'Goldman Sans', sans-serif;
+}
+
+.block {
+  background: #eee;
+  padding: 1px 15px;
+  margin-bottom: 20px;
+}
